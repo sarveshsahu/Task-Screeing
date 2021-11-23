@@ -1,0 +1,22 @@
+{
+  "name": "taskscreening",
+  "version": "1.0.0",
+  "description": "Task Screening",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "keywords": [
+    "task",
+    "screening"
+  ],
+  "author": "Sarvesh Sahu",
+  "license": "ISC"
+}
